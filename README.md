@@ -2,7 +2,7 @@
 
 ## **Executive Summary**
 
-Our **HIPAA Security Rule Compliance Implementation & Monitoring Framework** is a comprehensive, systematic approach designed to help healthcare organizations and their business associates achieve and maintain full compliance with HIPAA Security Rule requirements. This framework transforms complex regulatory requirements into actionable, measurable security controls with continuous monitoring capabilities.
+My **HIPAA Security Rule Compliance Implementation & Monitoring Framework** is a comprehensive, systematic approach designed to help healthcare organizations and their business associates achieve and maintain full compliance with HIPAA Security Rule requirements. This framework transforms complex regulatory requirements into actionable, measurable security controls with continuous monitoring capabilities.
 
 ## **Framework Overview**
 
@@ -82,7 +82,7 @@ TIER 3: PHYSICAL SAFEGUARDS
 
 ## **Technology Enablement**
 
-Our framework is powered by a **custom web application** that provides:
+My framework is powered by a **custom web application** that provides:
 
 - **Unified Compliance Dashboard**: Real-time visibility across all requirements
 - **Automated Monitoring**: Continuous control validation and testing
