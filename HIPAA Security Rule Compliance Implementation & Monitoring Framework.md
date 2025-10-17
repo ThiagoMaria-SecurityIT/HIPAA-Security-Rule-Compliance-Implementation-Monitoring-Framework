@@ -1,4 +1,4 @@
-## 🎯 **HIPAA Security Rule Compliance Implementation & Monitoring Framework**
+##  **HIPAA Security Rule Compliance Implementation & Monitoring Framework**
 
 ### **Phase 1: Foundation & Assessment** 📊
 
